@@ -7,6 +7,6 @@ Script Command Call Example on Bash Console:
 
 Note:
 
-The first argument is the path to the test_suite file which contains a list of test name/path stems to their arugment file, input file, expected-output file.
+The first argument is the path to the test_suite file which contains a list of test name/path stems to their arugment file, input file and expected-output file.
 
-The second argument it the script/command that should be tested.
+The second argument is the script/command that should be tested.
